@@ -9,6 +9,6 @@ Extending the ionic sample todo project with the following stories:
  * as a user I want to mark a task as done
  * as a user I want to delete a task
 
-Step by step description in the [edlovesjava blog][edlovesjava.github.io]
+Step by step description in the [edlovesjava blog](http://edlovesjava.github.io)
 
  
